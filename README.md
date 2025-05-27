@@ -22,7 +22,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Spring Boot-->
-  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-#6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
   <br/>
   
   
