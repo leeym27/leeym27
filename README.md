@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Bello:raised_hand:)
+  ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Bello)
   
 </div>
 
@@ -15,6 +15,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--JAVA-->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--MySQL-->
